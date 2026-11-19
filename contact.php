@@ -1,4 +1,4 @@
-<?php
+<php
 $pageTitle = 'Contact | Kirbe Taguba';
 $activePage = 'contact';
 require_once __DIR__ . '/includes/header.php';
